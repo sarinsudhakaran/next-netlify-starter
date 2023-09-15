@@ -84,12 +84,12 @@ export default function Resume() {
             {/* ... other bullet points */}
           </ul>
           {/* Other positions */}
-          <h3>Underwriting Analyst -II, AIG, Bangalore, India| March 2016 - July 2018</h3>
+          <h3>Senior Business Analyst/ Underwritng Analyst -II, AIG, Bangalore, India| March 2016 - July 2018</h3>
           <ul>
-            <li>Received raw location data in Excel, scrubbed and input the data into the modeling system to calculate catastrophic premiums, utilizing historical data for simulations.</li>
-            <li>Transformed complex insurance data into meaningful insights by developing and implementing Tableau Dashboards, Scorecards, and KPI Reports tailored to underwriter requests.</li>
-            <li>Ran various models and interpreted outputs, providing an extensive analysis of the risks associated with property insurance, specifically focusing on Catastrophe and Fire scenarios.</li>
-            <li>Collaborated with developers to create and implement macros that automated processes, resulting in a 30% reduction in turnaround time for the underwriting team.</li>
+            <li>Analyzed and translated business requirements for multiple pricing and claims management projects into actionable user stories.</li>
+            <li>Ensured alignment with business requirements by documenting product designs, features, user stories, and acceptance criteria using INVEST criteria.</li>
+            <li>Served as the go-to person for bug resolution and new initiatives, reducing issue resolution time by 30%.</li>
+            <li>Worked on projects from initiation through to implementation and support: Streamlining Claims Management system, End to end Property Underwriting Platform.</li>
             <li>Crafted test plans, created test cases, and performed User Acceptance Testing, ensuring the product met the requirements and communicating the results effectively.</li>
             {/* ... other bullet points */}
           </ul>
