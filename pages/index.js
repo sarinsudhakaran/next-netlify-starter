@@ -19,7 +19,7 @@ export default function Resume() {
         </section>
         <section className="summary">
           <h2>Summary:</h2>
-          <p>Certified Scrum Product Owner/Business Analyst/Data Analyst with a focus on achieving business goals, driving change agendas, and delivering value through innovative insurance and banking solutions.</p>
+          <p>Certified Scrum Product Owner and seasoned Business Analyst with over 6 years of hands-on experience in the finance and SaaS industries. Adept at working closely with development teams to innovate, improve customer experiences, and deliver top-notch software solutions. Known for strong skills in requirement gathering, project management, and data analysis. Excellent at stakeholder communication and relationship building.</p>
         </section>
         <section className="core-skills">
   <h2>Core Skills:</h2>
@@ -43,44 +43,73 @@ export default function Resume() {
 </section>
         <section className="experience">
           <h2>Experience:</h2>
-          <h3>Presales Consultant, Regnology, Ireland | August 2022 – Till Date</h3>
+          <h3>Tech - Presales Consultant, Regnology, Ireland | August 2022 – Till Date</h3>
           <ul>
-            <li>Acted as the primary liaison with financial supervisors in the banking and insurance sectors, leading client interactions at Regnology.</li>
-            <li>Developed custom data collection using Python, Git, GitLab, and in-house tools, adhering to complex regulatory frameworks such as EBA and EIOPA.</li>
-            <li>Employed Apache Superset, Power BI, and AI/ML principles to transform raw data into actionable insights, highlighting a forward-thinking approach to technology utilization.</li>
-            <li>Led the creation and presentation of proof-of-concept demos, tailoring each to client needs, and enhancing demo satisfaction.</li>
-            <li>Collaborated with the bid management team, R&D developers, and product managers to respond to RFPs, RFIs, and Expressions of Interest with precise answers to functional and non-functional requirements.</li>
-            <li>Transformed regulatory needs into practical technology solutions, improving operations and delivering value to clients, working both independently and as part of a cross-functional agile team.</li>
-            <li>Managed the complete client engagement cycle, from initial meetings to final presentations, contributing to a 20% increase in company revenue.</li>
-            <li>Continuously monitored industry trends, client feedback, and developer insights to enhance client demos and improve overall product quality and client experience.</li>
-            <li>Guided and supported new hires through hands-on coaching, ensuring quick integration into the team and accelerating their learning curve in handling the application.</li>
+            <li>
+            Boosted the company's customer base by 20% in the first year through strategic engagement with financial supervisors in banking and insurance industry.
+            </li>
+            {/* ... other bullet points */}
+            <li>
+            Acted as the Product Owner in a 10+ member agile team, focusing on the development of a new form generator platform.
+            </li>
+            {/* ... other bullet points */}
+            <li>
+            Led requirement gathering for the presales team, created user stories, took ownership of the product backlog, and collaborated closely with developers through daily sprints.
+            </li>
+            {/* ... other bullet points */}
+            <li>
+            Cut data collection time from 4 days to 1 day by automating processes with Python and GitLab, meeting EBA and EIOPA regulatory standards.
+            </li>
+            <li>
+            Successfully communicated both technical and commercial ideas to customers through compelling storytelling.
+            </li>
             {/* ... other bullet points */}
           </ul>
           {/* Other positions */}
           <h3>Product Manager – Intern, Blackbox Limerick, Ireland  | May 2022 - August 2022</h3>
           <ul>
-            <li>Collaborated with clients to capture requirements for a performance-oriented app, enabling the connection of multiple monitors to one system.</li>
-            <li>Created comprehensive requirement documents, liaising with the product team to conceptualize the design of the application.</li>
-            <li>Utilized Figma for iterative design processes, incorporating feedback, and delivering the final mockup of the app to meet client specifications.</li>
-            <li>Performed in-depth market research and competitive analysis to understand the product landscape and articulate the value proposition.</li>
-            <li>Analyzed sales funnel data using Salesforce, offering insights to optimize sales strategies and performance.</li>
+           <li>
+           Gathered requirements from over 20 clients (customer Interviews) to enhance the performance of a software application, enabling the connection of multiple monitors to a single system.
+           </li>
+            {/* ... other bullet points */}
+           <li>
+           Developed an app mockup in Figma tailored to a client's specifications. Iteratively refined the design based on client feedback, delivering the final mockup within the stipulated timeline and budget.
+           </li>
+            {/* ... other bullet points */}
+           <li>
+           Conducted a competitive analysis of top industry rivals, identifying key trends that informed a new value proposition, subsequently increasing market share by 8%.
+           </li>
             {/* ... other bullet points */}
           </ul>
           {/* Other positions */}
           <h3>Product and Training Manager, Cholamandalam Mitsui Sumitomo Insurance, Chennai, India   | July 2019 - September 2021</h3>
           <ul>
-            <li>Managed concept-to-launch of commercial insurance front-end solution enabling real-time buying of online insurance policies, generating 40 million Euros in sales.</li>
-            <li>Led the development of a suite of applications to provide clients fast, secure transaction capabilities, exceeding client expectations.</li>
-            <li>Established strong connections with internal and external stakeholders, ensuring alignment with business objectives and enabling seamless, high-quality product rollouts.</li>
-            <li>Defined 'Acceptance Criteria' and conducted User Acceptance Testing (UAT) to enhance product quality and user adoption.</li>
-            <li>Designed and conducted comprehensive training programs for sales staff and insurance agents on life and non-life insurance products, including hands-on guidance on product utilization.</li>
-            {/* ... other bullet points */}
+      <li>
+      Managed end-to-end launch of a commercial insurance front-end solution, facilitating real-time online insurance policy purchases and generating €40 million in sales.
+      </li>
+      <li>
+      Spearheaded "as-is" process mapping initiatives in line with the product vision, engaging stakeholders and leveraging both in-person and digital tools for strategy consensus and detailed process map.
+      </li>
+      <li>
+      Crafted Product Requirement Documents (PRD) and Business Requirement Documents (BRD) to align with the product roadmap and vision, articulating features, specifications, and business needs to stakeholders.
+      </li>
+      <li>
+      Led User Acceptance Testing (UAT), incorporating feedback from over 100 customers into actionable user stories.
+      </li>
+      <li>
+      Identified and resolved 50+ bugs, achieving a 90% reduction in customer-reported issues post-launch.
+      </li>
+      <li>
+      Designed and showcased app mockups, achieving strategic alignment between stakeholders and development teams for the successful, on-time launch of products.
+      </li>
+
           </ul>
           {/* Other positions */}
-          <h3>Product and Training Manager, Cholamandalam Mitsui Sumitomo Insurance, Chennai, India   | July 2019 - September 2021</h3>
+          <h3>Customer Service Manager (Marine Insurance Underwriter), Chennai, India   | July 2019 - September 2021</h3>
           <ul>
-            <li>Performed critical business development and management functions for the marine insurance sector, establishing new accounts and maintaining existing profitable relationships.</li>
-            <li>Compiled monthly risk reports for managers covering retention and loss ratio using MS Excel and Tableau.</li> 
+            <li>Conducted process mapping initiatives using Visio to identify gaps and inefficiencies in current state business processes and spot opportunities for improvements for the desired future state.</li>
+            <li>Worked on process improvements for the marine insurance platform, enhancing efficiency and improving data accuracy and timeliness.</li> 
+            <li>Conducted training sessions for system users in marine insurance, upskilling sales staff and business users, contributing to a 25% increase in system adoption rates.</li> 
             {/* ... other bullet points */}
           </ul>
           {/* Other positions */}
